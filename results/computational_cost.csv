@@ -1,0 +1,4 @@
+,Parámetros (M),Pesos (MB),VRAM pico (GB),VRAM (%),Avg epoch (s),Train/fold (h),Total train (h)
+nnUNet,60.59,354.6,9.91,38.46,51.5,3.57,17.85
+MedNeXt,31.66,126.6,25.65,99.34,109.3,7.59,37.95
+SwinUNETR,63.13,252.5,20.55,79.74,216.7,16.19,80.95
