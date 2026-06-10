@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data (too large — download from VerSe challenge)
+data/
+*.nii.gz
+*.nii
+*.zip
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Large training folders
+*_training/
+preprocessed_verse_for_training/
+nnUNet_raw/
+nnUNet_preprocessed/
+reconstruction/
+
+# OS
+.DS_Store
+Thumbs.db
